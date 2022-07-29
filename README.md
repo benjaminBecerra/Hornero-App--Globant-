@@ -31,10 +31,10 @@ Benjamin Becerra,
 
 ### 🔗 Links
 
-|[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)| [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjaminbecerra/) |
+|[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-benjaminbecerra.vercel.app/)| [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjaminbecerra/) |
 |-------- |--------|
 
 ### ¡Otros proyectos! 👇
 
- - [Black Cat - Tienda Online](https://github.com/matiassingers/awesome-readme)
- - [CinemaDB - Movie database](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+ - [Black Cat - Tienda Online](https://github.com/benjaminBecerra/Black-Cat)
+ - [CinemaDB - Movie database](https://github.com/benjaminBecerra/Cinema-DB)
